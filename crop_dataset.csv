@@ -1,0 +1,51 @@
+N,P,K,temperature,humidity,ph,rainfall,season,soil_type,label
+90,42,43,20.9,82,6.5,202,Kharif,Clay Loam,Rice
+85,58,41,21.7,80,7.0,227,Kharif,Clay Loam,Rice
+60,55,44,23.0,82,7.0,263,Kharif,Clay,Rice
+74,35,40,26.5,80,6.5,242,Kharif,Clay Loam,Rice
+78,42,42,20.0,81,7.0,230,Kharif,Clay,Rice
+120,65,39,19.2,25,6.5,67,Rabi,Loamy,Wheat
+118,60,38,20.5,30,6.8,72,Rabi,Loamy,Wheat
+105,55,34,21.0,28,6.5,68,Rabi,Sandy Loam,Wheat
+122,67,40,18.5,26,6.5,60,Rabi,Loamy,Wheat
+115,58,36,20.0,28,6.8,65,Rabi,Loamy,Wheat
+77,52,17,27.0,65,5.8,760,Kharif,Sandy Loam,Maize
+80,48,19,26.5,62,6.0,740,Kharif,Sandy Loam,Maize
+88,39,16,27.5,63,5.8,730,Kharif,Loamy,Maize
+92,42,43,28.0,66,5.9,800,Kharif,Sandy Loam,Maize
+85,45,18,27.0,64,6.0,770,Kharif,Loamy,Maize
+104,18,30,26.0,50,7.8,101,Kharif,Black Cotton,Cotton
+118,33,21,25.5,52,7.5,95,Kharif,Black Cotton,Cotton
+124,40,21,27.0,55,7.0,110,Kharif,Black Cotton,Cotton
+130,35,25,26.5,53,7.5,100,Kharif,Black Cotton,Cotton
+108,22,28,25.0,50,7.8,90,Kharif,Black Cotton,Cotton
+25,45,25,27.0,65,6.5,550,Kharif,Sandy Loam,Groundnut
+30,50,30,28.0,60,6.0,520,Kharif,Sandy,Groundnut
+20,48,22,26.5,63,6.5,580,Kharif,Sandy Loam,Groundnut
+28,42,28,27.5,62,6.2,540,Kharif,Sandy,Groundnut
+22,46,24,27.0,64,6.5,560,Kharif,Sandy Loam,Groundnut
+250,100,100,27.0,80,6.5,1600,Year Round,Deep Loamy,Sugarcane
+230,95,90,28.0,82,6.5,1800,Year Round,Deep Loamy,Sugarcane
+260,110,95,26.5,78,6.8,1500,Year Round,Deep Loamy,Sugarcane
+240,100,85,27.5,80,6.5,1700,Year Round,Deep Loamy,Sugarcane
+255,105,100,27.0,81,6.5,1650,Year Round,Deep Loamy,Sugarcane
+30,80,40,24.0,70,6.5,620,Kharif,Well-drained Loamy,Soybean
+25,75,35,25.0,72,6.2,650,Kharif,Loamy,Soybean
+35,85,45,24.5,68,6.5,600,Kharif,Well-drained Loamy,Soybean
+28,78,38,25.5,70,6.5,630,Kharif,Loamy,Soybean
+32,80,42,24.0,71,6.2,610,Kharif,Well-drained Loamy,Soybean
+120,80,60,22.0,70,6.0,700,Year Round,Sandy Loam,Tomato
+115,75,55,24.0,72,6.2,720,Year Round,Sandy Loam,Tomato
+125,85,65,23.0,68,6.0,680,Year Round,Sandy Loam,Tomato
+118,78,58,22.5,70,6.2,710,Year Round,Sandy Loam,Tomato
+122,82,62,23.5,71,6.0,700,Year Round,Sandy Loam,Tomato
+100,50,100,15.0,65,6.5,400,Rabi,Loamy,Onion
+95,48,95,16.0,63,6.8,380,Rabi,Loamy,Onion
+105,55,105,14.5,62,6.5,420,Rabi,Sandy Loam,Onion
+98,50,98,15.5,64,6.5,390,Rabi,Loamy,Onion
+102,52,100,15.0,63,6.8,400,Rabi,Loamy,Onion
+180,80,100,15.0,80,5.5,600,Rabi,Sandy Loam,Potato
+175,75,95,16.0,78,5.8,580,Rabi,Sandy,Potato
+185,85,105,14.5,82,5.5,620,Rabi,Sandy Loam,Potato
+178,78,98,15.5,80,5.5,590,Rabi,Sandy,Potato
+182,80,100,15.0,80,5.8,600,Rabi,Sandy Loam,Potato
