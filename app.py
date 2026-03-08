@@ -2624,10 +2624,10 @@ def show_about(T, lang):
     st.info("✏️ Edit the team details below in app.py → `TEAM_MEMBERS` list to match your actual team!")
 
     TEAM_MEMBERS = [
-        {"name": "Your Name Here",    "role": "Team Lead & Full Stack Developer", "icon": "👨‍💻", "skills": "Python, Streamlit, AI/ML"},
-        {"name": "Member 2 Name",     "role": "Data Scientist & ML Engineer",     "icon": "🧠", "skills": "Scikit-learn, TensorFlow, Data Analysis"},
-        {"name": "Member 3 Name",     "role": "UI/UX Designer",                   "icon": "🎨", "skills": "Figma, CSS, User Research"},
-        {"name": "Member 4 Name",     "role": "Domain Expert (Agriculture)",      "icon": "🌾", "skills": "Agronomy, Soil Science, Crop Management"},
+        {"name": " Mandava siri",    "role": "Team Lead & Full Stack Developer", "icon": "👨‍💻", "skills": "Python, Streamlit, AI/ML"},
+        {"name": "Siddhartha",     "role": "Data Scientist & ML Engineer",     "icon": "🧠", "skills": "Scikit-learn, TensorFlow, Data Analysis"},
+        {"name": "Teja",     "role": "UI/UX Designer",                   "icon": "🎨", "skills": "Figma, CSS, User Research"},
+        {"name": "Thanu sri",     "role": "Domain Expert (Agriculture)",      "icon": "🌾", "skills": "Agronomy, Soil Science, Crop Management"},
     ]
 
     cols = st.columns(len(TEAM_MEMBERS))
@@ -2649,12 +2649,12 @@ def show_about(T, lang):
         st.markdown("""
         <div class="result-box">
           <b>🏆 Project Information</b><br><br>
-          <b>📌 Event/Hackathon:</b> Add your event name here<br>
-          <b>🏫 Institution:</b> Add your college/university<br>
+          <b>📌 Event/Hackathon:</b> Zentron<br>
+          <b>🏫 Institution:</b> DRK Institute of science and technology<br>
           <b>📅 Year:</b> 2026<br>
           <b>🏷️ Category:</b> Agriculture Tech / AI for Social Good<br>
           <b>🌐 Live Demo:</b> your-app.streamlit.app<br>
-          <b>📂 GitHub:</b> github.com/yourusername/smart-crop-advisory
+          <b>📂 GitHub:</b> github.com/Mandavasiri/smart-crop-advisory
         </div>""", unsafe_allow_html=True)
     with col_r:
         st.markdown("""
